@@ -27,6 +27,7 @@
 - 🔌 **Arduino & Electronics**: I enjoy tinkering with circuits, sensors, and creating embedded systems.
 - 🌐 **Networking**: Big fan of **Mikrotik** and **Ubiquiti** networking gear.
 - 🖥️ **Linux & Open Source**: I like to explore how things work under the hood.
+- ☕ **Coffee & Latte Art**: A coffee enthusiast, constantly practicing my latte art skills! 
   
 ## ✍️ Upcoming:
 I'm planning to write a blog post about my experience flashing the **WD MyCloud EX2 Ultra** and running my custom Ubuntu-based Linux distro. Stay tuned!
