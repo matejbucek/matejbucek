@@ -11,7 +11,7 @@
 ## 🛠️ Technologies & Skills:
 
 ### Languages:
-- 🖥️ C++, C, Java, Kotlin, TypeScript, PHP, HTML, CSS, SCSS
+- 🖥️ C++, C, Java, Kotlin, Swift, JS, TypeScript, PHP, HTML, CSS, SCSS
 
 ### Frameworks & Tools:
 - 🔧 **Backend**: Spring, PowerDI
