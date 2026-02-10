@@ -6,7 +6,6 @@
 
 - 🖥️ **[MatteOS](https://github.com/matejbucek/MatteOS)**: My custom kernel and OS for the **RISC-V** architecture. 🚀 A deep dive into system programming.
 - 🌐 **[PowerDI](https://github.com/matejbucek/PowerDI)**: A modern **PHP 8.2+** framework with built-in DI, ORM, and all the tools you need for web development. 
-- 🛠️ **NAS Hacking**: Recently flashed a **WD MyCloud EX2 Ultra** with my own **Ubuntu-based** Linux distro. 📦 Planning to write a blog post about it soon!
 
 ## 🛠️ Technologies & Skills:
 
